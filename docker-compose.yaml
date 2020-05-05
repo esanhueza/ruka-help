@@ -1,0 +1,27 @@
+version: "3"
+
+services:
+  nats:
+    build:
+      context: "./bin/nats"
+    container_name: nats
+    ports:
+      - 4222:4222 # is for clients.
+      - 8222:8222 # is an HTTP management port for information reporting.
+      - 6222:6222 # is a routing port for clustering.
+      
+  mysql:
+    build:
+      context: "./bin/${DATABASE}"
+    container_name: 'mysql-expert'
+    ports:
+      - "9909:3306"
+    volumes: 
+      - ${MYSQL_DATA_DIR-./data/mysql}:/var/lib/mysql
+      - ${MYSQL_LOG_DIR-./logs/mysql}:/var/log/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: ${MYSQL_DATABASE}
+      MYSQL_USER: ${MYSQL_USER}
+      MYSQL_PASSWORD: ${MYSQL_PASSWORD}
+  
