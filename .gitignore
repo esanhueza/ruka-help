@@ -24,6 +24,9 @@ yarn-error.log*
 /data
 
 
+todo
+
+
 /src/client/yarn.lock
 /src/client/package-lock.json
 
