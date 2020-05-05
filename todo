@@ -1,0 +1,18 @@
+[X] Determine if a user end the connection
+
+[] User list
+    [] Get list of users
+    [] Update list of users
+
+[] Boards sync
+    [] Sync board schema
+    [] Sync board code
+
+[] Create rpc server to execute sql
+    [] Create rpc server
+        [] Receive call
+        [] Connect with local database
+        [] Execute SQL code
+        [] Create databases
+        [] Run queries
+        [] Delete unused databases
