@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="workspace.svg"
+   inkscape:version="1.0 (5b275a35d9, 2020-05-03)"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 508.00002 285.74999"
+   height="1080"
+   width="1920">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     inkscape:window-maximized="1"
+     inkscape:window-y="18"
+     inkscape:window-x="0"
+     inkscape:window-height="1042"
+     inkscape:window-width="1918"
+     units="px"
+     width="296mm"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer2"
+     inkscape:document-units="mm"
+     inkscape:cy="495.35944"
+     inkscape:cx="608.10334"
+     inkscape:zoom="0.44020349"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     sodipodi:insensitive="true"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Background">
+    <rect
+       y="0.23328024"
+       x="0.23328024"
+       height="285.28345"
+       width="507.53342"
+       id="rect10"
+       style="opacity:0.533;vector-effect:none;fill:#f8f8f8;fill-opacity:1;stroke:#000000;stroke-width:0.46656;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       y="-43.475334"
+       x="-4.0393686"
+       height="2.4874873"
+       width="1.9596285"
+       id="rect15"
+       style="opacity:0.533;vector-effect:none;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+  </g>
+  <g
+     inkscape:label="Chat"
+     id="layer2"
+     inkscape:groupmode="layer">
+    <rect
+       y="12.139036"
+       x="7.6371017"
+       height="261.96945"
+       width="137.56273"
+       id="rect841"
+       style="opacity:0.533;vector-effect:none;fill:#f8f8f8;fill-opacity:1;stroke:#000000;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <g
+       transform="translate(1.7498022e-6,-14.008394)"
+       id="g886">
+      <path
+         sodipodi:nodetypes="sssscssss"
+         d="M 131.00689,71.715229 H 20.38651 c -3.14857,0 -5.68335,2.534775 -5.68335,5.683352 v 19.272241 c 0,19.376858 -0.27434,5.764058 5.68335,5.683348 h 110.62038 c 3.14858,0 5.68335,-2.534768 5.68335,-5.683348 V 77.398581 c 0,-3.148577 -2.53477,-5.683352 -5.68335,-5.683352 z"
+         style="opacity:1;vector-effect:none;fill:#2c698d;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path846" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:103.603;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.497934"
+         y="88.575363"
+         id="text866"
+         transform="translate(-2.3947122,-6.8266668)"><tspan
+           x="26.497934"
+           y="88.575363"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">Yes, I'm having problem with this query, I </tspan></tspan><tspan
+           x="26.497934"
+           y="95.630909"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">can't make it work correctly. Can you help </tspan></tspan><tspan
+           x="26.497934"
+           y="102.68646"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">me?</tspan></tspan></text>
+    </g>
+    <rect
+       y="9.3275747"
+       x="-54.44006"
+       height="22.663393"
+       width="22.663393"
+       id="rect870"
+       style="opacity:1;vector-effect:none;fill:#084c75;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke" />
+    <rect
+       style="opacity:0.533;vector-effect:none;fill:#000000;fill-opacity:0;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+       id="rect872"
+       width="22.663393"
+       height="22.663393"
+       x="-54.630154"
+       y="38.662098" />
+    <g
+       transform="translate(0,3.5833854)"
+       id="g881">
+      <path
+         id="rect843"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 20.384448,20.634789 H 131.00483 c 3.14857,0 5.68335,2.534775 5.68335,5.683352 v 12.209078 c 0,19.376861 0.27434,5.764055 -5.68335,5.683352 H 20.384448 c -3.148577,0 -5.683352,-2.534775 -5.683352,-5.683352 V 26.318141 c 0,-3.148577 2.534775,-5.683352 5.683352,-5.683352 z"
+         sodipodi:nodetypes="sssscssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:102.162;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="31.40344"
+         y="31.582378"
+         id="text876"
+         transform="translate(-6.4383085,-0.46691143)"><tspan
+           x="31.40344"
+           y="31.582378"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">It seems you are having problem making </tspan></tspan><tspan
+           x="31.40344"
+           y="38.637928"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">a query works, right?</tspan></tspan></text>
+    </g>
+    <g
+       id="g894"
+       transform="translate(1.7498022e-6,60.03211)">
+      <path
+         id="path888"
+         style="opacity:1;vector-effect:none;fill:#2c698d;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 131.00689,71.715229 H 20.38651 c -3.14857,0 -5.68335,2.534775 -5.68335,5.683352 v 19.272241 c 0,19.376858 -0.27434,5.764058 5.68335,5.683348 h 110.62038 c 3.14858,0 5.68335,-2.534768 5.68335,-5.683348 V 77.398581 c 0,-3.148577 -2.53477,-5.683352 -5.68335,-5.683352 z"
+         sodipodi:nodetypes="sssscssss" />
+      <text
+         transform="translate(-2.3947122,-6.8266668)"
+         id="text892"
+         y="88.575363"
+         x="26.497934"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:103.603;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           x="26.497934"
+           y="88.575363"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">Yes, I'm having problem with this query, I </tspan></tspan><tspan
+           x="26.497934"
+           y="95.630909"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">can't make it work correctly. Can you help </tspan></tspan><tspan
+           x="26.497934"
+           y="102.68646"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">me?</tspan></tspan></text>
+    </g>
+    <g
+       transform="translate(0,77.623873)"
+       id="g902">
+      <path
+         sodipodi:nodetypes="sssscssss"
+         d="M 20.384448,20.634789 H 131.00483 c 3.14857,0 5.68335,2.534775 5.68335,5.683352 v 12.209078 c 0,19.376861 0.27434,5.764055 -5.68335,5.683352 H 20.384448 c -3.148577,0 -5.683352,-2.534775 -5.683352,-5.683352 V 26.318141 c 0,-3.148577 2.534775,-5.683352 5.683352,-5.683352 z"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path896" />
+      <text
+         transform="translate(-6.4383085,-0.46691143)"
+         id="text900"
+         y="31.582378"
+         x="31.40344"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:102.162;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           x="31.40344"
+           y="31.582378"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">It seems you are having problem making </tspan></tspan><tspan
+           x="31.40344"
+           y="38.637928"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">a query works, right?</tspan></tspan></text>
+    </g>
+    <g
+       transform="translate(1.7498022e-6,97.052339)"
+       id="g910">
+      <path
+         sodipodi:nodetypes="sssscssss"
+         d="M 131.00689,71.715229 H 20.38651 c -3.14857,0 -5.68335,2.534775 -5.68335,5.683352 v 19.272241 c 0,19.376858 -0.27434,5.764058 5.68335,5.683348 h 110.62038 c 3.14858,0 5.68335,-2.534768 5.68335,-5.683348 V 77.398581 c 0,-3.148577 -2.53477,-5.683352 -5.68335,-5.683352 z"
+         style="opacity:1;vector-effect:none;fill:#2c698d;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         id="path904" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:103.603;fill:#f8f8f8;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.497934"
+         y="88.575363"
+         id="text908"
+         transform="translate(-2.3947122,-6.8266668)"><tspan
+           x="26.497934"
+           y="88.575363"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">Yes, I'm having problem with this query, I </tspan></tspan><tspan
+           x="26.497934"
+           y="95.630909"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">can't make it work correctly. Can you help </tspan></tspan><tspan
+           x="26.497934"
+           y="102.68646"><tspan
+             style="font-size:5.64444px;fill:#f8f8f8;fill-opacity:1;stroke-width:0.264583">me?</tspan></tspan></text>
+    </g>
+    <g
+       id="g918"
+       transform="translate(0,188.68463)">
+      <path
+         id="path912"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#b3b3b3;stroke-width:0.529167;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:fill markers stroke"
+         d="M 20.384448,20.634789 H 131.00483 c 3.14857,0 5.68335,2.534775 5.68335,5.683352 v 12.209078 c 0,19.376861 0.27434,5.764055 -5.68335,5.683352 H 20.384448 c -3.148577,0 -5.683352,-2.534775 -5.683352,-5.683352 V 26.318141 c 0,-3.148577 2.534775,-5.683352 5.683352,-5.683352 z"
+         sodipodi:nodetypes="sssscssss" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;white-space:pre;inline-size:102.162;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="31.40344"
+         y="31.582378"
+         id="text916"
+         transform="translate(-6.4383085,-0.46691143)"><tspan
+           x="31.40344"
+           y="31.582378"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">It seems you are having problem making </tspan></tspan><tspan
+           x="31.40344"
+           y="38.637928"><tspan
+             style="font-size:5.64444px;stroke-width:0.264583">a query works, right?</tspan></tspan></text>
+    </g>
+  </g>
+</svg>

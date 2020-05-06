@@ -4,7 +4,7 @@ services:
   nats:
     build:
       context: "./bin/nats"
-    container_name: nats
+    container_name: ruka-help-nats
     ports:
       - 4222:4222 # is for clients.
       - 8222:8222 # is an HTTP management port for information reporting.
@@ -13,7 +13,7 @@ services:
   mysql:
     build:
       context: "./bin/${DATABASE}"
-    container_name: 'mysql-expert'
+    container_name: 'ruka-help-expert'
     ports:
       - "9909:3306"
     volumes: 

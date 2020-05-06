@@ -1,0 +1,7 @@
+
+# start vue client
+inside directory src/client run
+yarn run serve
+
+# start gateway
+./src/server/gateway/gateway 
